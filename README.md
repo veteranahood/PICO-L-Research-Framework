@@ -39,5 +39,6 @@ This repository is open for peer review. We invite researchers and engineers to:
 ## Setup Instructions
 
 Clone the repository:
-```bash
-git clone [https://github.com/your-username/PICO-L-Research-Framework.git](https://github.com/your-username/PICO-L-Research-Framework.git)
+```bash 
+git clone https://github.com/veteranahood/Infinidexx.git
+
